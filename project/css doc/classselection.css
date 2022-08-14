@@ -1,0 +1,47 @@
+body{
+
+    background-image: url("https://img.freepik.com/free-vector/minimal-white-gray-background-with-wavy-lines_1017-25099.jpg?w=1380&t=st=1660238399~exp=1660238999~hmac=525361d656640dc9d50ca98071d901fd841bce558b2fab28c18dec9d6e9a4cf4");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+
+}
+
+.class {
+
+    font-size: 60pt;
+    text-align: center;
+
+}
+
+.box1 {
+
+    width: 100%;
+    height: 20px;
+    background-color: gray;
+
+}
+
+.box2 {
+
+    width: 12.5%;
+    height: 20px;
+    background-color: green;
+
+}
+
+.container {
+
+    border-radius: 15px;
+
+}
+
+.thumbnail{
+
+    width: 100%;
+    height: 100%;
+    margin-bottom: -20px;
+    margin-top: -20px;
+
+}
